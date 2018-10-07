@@ -1,0 +1,35 @@
+Job Summary
+
+Do you have exceptional attention to detail? Would you like to contribute to features used daily by engineers and scientists worldwide? Join a core development team in Cambridge, UK, dedicated to making it easy for teams of engineers to work together using Simulink, working on features like Simulink Projects, Simulink Comparison & Merge tools and more.  
+Responsibilities
+
+The role will involve: 
+
+    Developing automated testing suites of an exceptionally high quality that can run on multiple platforms
+    Contributing to product development from its earliest stages through software design reviews and code reviews
+    Helping evolve and maintain our internal software continuous integration infrastructure
+
+Minimum Qualifications
+
+    A bachelor's degree and 3 years of professional work experience (or a master's degree) is required.
+
+Additional Qualifications
+
+    A good degree in Engineering, Physics, Computer Science or Maths, or a related discipline
+    Experience with an OO language such as C++ or Java
+    Some programming experience with MATLAB
+    Solid interpersonal and written communication skills
+    Attention to detail is an essential characteristic
+    Must be self-motivated with the ability to work on a small team
+    Flexibility to take on varied tasks
+
+Why MathWorks?
+
+It's the chance to collaborate with bright, passionate people. It's contributing to software products that make a difference in the world. And it's being part of a company with an incredible commitment to doing the right thing - for each individual, our customers, and the local community.
+
+MathWorks develops MATLAB and Simulink, the leading technical computing software used by engineers and scientists. The company employs 4000 people in 16 countries, with headquarters in Natick, Massachusetts, U.S.A. MathWorks is privately held and has been profitable every year since its founding in 1984.
+Contact us if you need reasonable accommodation because of a disability in order to apply for a position.
+
+The MathWorks, Inc. is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, and other protected characteristics. View The EEO is the Law poster and its supplement.
+
+The pay transparency policy is available here.
